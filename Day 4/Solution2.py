@@ -62,7 +62,6 @@ for passport in Input:
             valid = False
             break
         if(not f[1](fields[f[0]])):
-            print(passport, "\n", f[0], "\n")
             valid = False
             break
     
