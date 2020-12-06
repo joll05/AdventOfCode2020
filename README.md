@@ -12,6 +12,6 @@ All of my solutions are written in [python 3](https://python.org). They are ofte
 The solutions are orgianized into folders labelled `Day N`. Inside these folders there are usually these three files:
 - `input.txt` - This is where the solutions will get the input from.
 - `Solution1.py` - The solution code for the first part.
-- `Solution2.py` - The solution code for the second part. This is usually copied from `solution1.py` and modified to fit the new requirements.
+- `Solution2.py` - The solution code for the second part. This is usually copied from `Solution1.py` and modified to fit the new requirements.
 
 There may also be additional files/scipts if the puzzle requires it.
